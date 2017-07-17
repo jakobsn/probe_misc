@@ -1,0 +1,42 @@
+wifi_asso_any 10.8688 
+dhcp_time_any 1.292934010 
+uptime 1753.46 
+cells_tota 31 
+cells_2ghz_edur 1 
+cells_5ghz_edur 6 
+cells_edur 7 
+cells_2ghz 11 
+cells_5ghz 20 
+cells_uniq_ssid 10 
+cells_uniq_radi 31 
+cells_uniq_chan 9 
+cells_num_mast 31 
+cells_2g_freq 3 
+cells_5g_freq 6 
+ssid_list 'bibsys bitreactive-sensor-net-0f30cc8 DIRECT-2f-HP dns_test eduroam eduroam-aruba Nito nsk.guest nsk.internal UNINETT_guest '
+ipv6_any 1 
+wifi_freq_any 5.66 
+wifi_apid_any 6C:F3:7F:E9:97:F0 
+wifi_sign_any .72 
+wifi_qual_any 1.00 
+wifi_conn_any 87 
+wifi_dbm_sign_any -58.00 
+dns_v4_any 0.012642 
+http_v4_any 0.055711 
+owj_v4_any  
+owpl_v4_any  
+ow_delay_min_v4_any 
+ow_delay_median_v4_any 
+ow_delay_max_v4_any 
+ow_delay_error_v4_any 
+rttv4_min_any 2.475 
+rttv4_avg_any 8.128 
+rttv4_max_any 44.107 
+owj_v6_any  
+owpl_v6_any  
+ow_delay_min_v6_any 
+ow_delay_median_v6_any 
+ow_delay_max_v6_any 
+ow_delay_error_v6_any 
+bwup_v6_any
+bwdo_v6_any
