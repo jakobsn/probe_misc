@@ -1,0 +1,83 @@
+wifi_asso_any 1.09612 
+dhcp_time_any .466292981 
+uptime 5067.96 
+cells_tota 17 
+cells_2ghz_edur 1 
+cells_5ghz_edur 0 
+cells_edur 1 
+cells_2ghz 17 
+cells_5ghz 0 
+cells_uniq_ssid 15 
+cells_uniq_radi 17 
+cells_uniq_chan 4 
+cells_num_mast 17 
+cells_2g_freq 3 
+cells_5g_freq 0 
+ssid_list 'Bitreactive_Gjest Bitreactive_Lan bitreactive-sensor-net-0f30cc8 bitreactive-sensor-net-d37ba3a Bitreactive_Test DIRECT-2f-HP dns_test eduroam Nito nsk.guest nsk.internal OHS UNINETT_guest Vectron_gjest Vectron_lan '
+ipv6_any 0 
+wifi_freq_any 2.462 
+wifi_apid_any 6C:F3:7F:E9:97:20 
+wifi_sign_any  
+wifi_qual_any .88 
+wifi_conn_any  
+wifi_dbm_sign_any -47.00 
+dns_v4_any 0.013 
+http_v4_any 0.046 
+owj_v4_any  
+owpl_v4_any  
+ow_delay_min_v4_any 
+ow_delay_median_v4_any 
+ow_delay_max_v4_any 
+ow_delay_error_v4_any 
+bwup_v4_any  
+bwdo_v4_any  
+rttv4_min_any  
+rttv4_avg_any  
+rttv4_max_any  
+dns_v6_any 0.012 
+http_v6_any 0.045 
+owj_v6_any  
+owpl_v6_any  
+ow_delay_min_v6_any 
+ow_delay_median_v6_any 
+ow_delay_max_v6_any 
+ow_delay_error_v6_any 
+bwup_v6_any  
+bwdo_v6_any  
+wifi_asso_any 10.9907 
+dhcp_time_any 61.891688759 
+wifi_asso_any 11.3683 
+dhcp_time_any 61.455766163 
+uptime 276.96 
+cells_tota 40 
+cells_2ghz_edur 4 
+cells_5ghz_edur 7 
+cells_edur 11 
+cells_2ghz 17 
+cells_5ghz 23 
+cells_uniq_ssid 9 
+cells_uniq_radi 40 
+cells_uniq_chan 9 
+cells_num_mast 40 
+cells_2g_freq 3 
+cells_5g_freq 6 
+ssid_list 'DIRECT-2f-HP dns_test eduroam eduroam-aruba Nito nsk.guest nsk.internal OHS UNINETT_guest '
+ipv6_any 2 
+wifi_asso_any 1.04602 
+dhcp_time_any 1.582318693 
+wifi_asso_any 1.11807 
+dhcp_time_any .456947013 
+uptime 74.14 
+cells_tota 22 
+cells_2ghz_edur 2 
+cells_5ghz_edur 0 
+cells_edur 2 
+cells_2ghz 22 
+cells_5ghz 0 
+cells_uniq_ssid 19 
+cells_uniq_radi 22 
+cells_uniq_chan 4 
+cells_num_mast 22 
+cells_2g_freq 3 
+cells_5g_freq 0 
+ssid_list 'Bitreactive_Gjest Bitreactive_Lan bitreactive-sensor-net-0f30cc8 bitreactive-sensor-net-d37ba3a Bitreactive_Test DIRECT-2f-HP dns_test eduroam FNETWORKS NextGenTel_B9 Nito nsk.guest nsk.internal OHS Texi Timpex.Trd UNINETT_guest Vectron_gjest Vectron_lan '
