@@ -1,0 +1,79 @@
+wifi_asso_any 1.14402 
+dhcp_time_any .501315413 
+uptime 354.28 
+cells_tota 20 
+cells_2ghz_edur 2 
+cells_5ghz_edur 0 
+cells_edur 2 
+cells_2ghz 20 
+cells_5ghz 0 
+cells_uniq_ssid 17 
+cells_uniq_radi 20 
+cells_uniq_chan 4 
+cells_num_mast 20 
+cells_2g_freq 3 
+cells_5g_freq 0 
+ssid_list 'Bitreactive_Gjest Bitreactive_Lan bitreactive-sensor-net-0f30cc8 bitreactive-sensor-net-d37ba3a Bitreactive_Test DIRECT-2f-HP dns_test eduroam NextGenTel_B9 Nito nsk.guest nsk.internal OHS Timpex.Trd UNINETT_guest Vectron_gjest Vectron_lan '
+ipv6_any 0 
+wifi_freq_any 2.462 
+wifi_apid_any 6C:F3:7F:E9:97:20 
+wifi_sign_any  
+wifi_qual_any .80 
+wifi_conn_any  
+wifi_dbm_sign_any -49.00 
+dns_v4_any 0.029 
+http_v4_any 0.061 
+owj_v4_any  
+owpl_v4_any  
+ow_delay_min_v4_any 
+ow_delay_median_v4_any 
+ow_delay_max_v4_any 
+ow_delay_error_v4_any 
+wifi_asso_any 1.1658 
+dhcp_time_any 1.519194920 
+wifi_asso_any 1.09783 
+dhcp_time_any .585810162 
+uptime 218.58 
+cells_tota 16 
+cells_2ghz_edur 1 
+cells_5ghz_edur 0 
+cells_edur 1 
+cells_2ghz 16 
+cells_5ghz 0 
+cells_uniq_ssid 16 
+cells_uniq_radi 16 
+cells_uniq_chan 4 
+cells_num_mast 16 
+cells_2g_freq 3 
+cells_5g_freq 0 
+ssid_list 'bibsysguest Bitreactive_Gjest bitreactive-sensor-net-0f30cc8 bitreactive-sensor-net-d37ba3a Bitreactive_Test DIRECT-2f-HP dns_test eduroam Nito nsk.guest nsk.internal OHS Timpex.Trd UNINETT_guest Vectron_gjest Vectron_lan '
+ipv6_any 0 
+wifi_freq_any 2.462 
+wifi_apid_any 6C:F3:7F:E9:97:20 
+wifi_sign_any  
+wifi_qual_any .87 
+wifi_conn_any  
+wifi_dbm_sign_any -47.00 
+dns_v4_any 0.013 
+http_v4_any 0.052 
+owj_v4_any  
+owpl_v4_any  
+ow_delay_min_v4_any 
+ow_delay_median_v4_any 
+ow_delay_max_v4_any 
+ow_delay_error_v4_any 
+bwup_v4_any  
+bwdo_v4_any  
+rttv4_min_any  
+rttv4_avg_any  
+rttv4_max_any  
+dns_v6_any 0.013 
+http_v6_any 0.047 
+owj_v6_any  
+owpl_v6_any  
+ow_delay_min_v6_any 
+ow_delay_median_v6_any 
+ow_delay_max_v6_any 
+ow_delay_error_v6_any 
+bwup_v6_any  
+bwdo_v6_any  
