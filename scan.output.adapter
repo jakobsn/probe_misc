@@ -1,2 +1,441 @@
-wlan1     No scan results
+wlan1     Scan completed :
+          Cell 01 - Address: B8:27:EB:66:F8:DF
+                    ESSID:"bitreactive-sensor-net-0f30cc8"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.412 GHz (Channel 1)
+                    Encryption key:on
+                    Bit Rates:72 Mb/s
+                    Extra:wpa_ie=dd1a0050f20101000050f20202000050f2040050f20201000050f202
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : CCMP TKIP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 02 - Address: 44:D9:E7:F3:A0:F5
+                    ESSID:"Nito"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 03 - Address: 46:1C:A8:69:09:2F
+                    ESSID:"DIRECT-2f-HP M477 LaserJet"
+                    Protocol:IEEE 802.11gn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:72 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020c00
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DDC80050F204104A000110104400010210570001011041000100103B00010310470010564E42384A3348315259705A0F13F3C01021000248501023001E485020436F6C6F72204C617365724A6574204D4650204D343737666E770010240007434633373741001042000B564E42384A3348315259001054000800030050F20400051011001A4449524543542D32662D4850204D343737204C617365724A65741008000200001049000600372A0001201049001700013710060010564E42384A3348315259705A0F13F3C0
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 04 - Address: 00:21:29:71:3C:C8
+                    ESSID:"OHS"
+                    Protocol:IEEE 802.11bg
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:54 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 05 - Address: AC:A3:1E:09:A8:E0
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11gn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 06 - Address: 90:6C:AC:13:92:38
+                    ESSID:"nsk.guest"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:130 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                       Preauthentication Supported
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 07 - Address: 92:6C:AC:13:92:38
+                    ESSID:"nsk.internal"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:130 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                       Preauthentication Supported
+                    Quality=0/100  Signal level=98/100  
+                    Extra:fm=0003
+          Cell 08 - Address: 6C:F3:7F:E9:97:20
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11gn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 09 - Address: 6C:F3:7F:E9:97:21
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11gn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:off
+                    Bit Rates:144 Mb/s
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 10 - Address: 6C:F3:7F:E9:97:22
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11gn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 11 - Address: AC:A3:1E:09:A8:E2
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11gn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 12 - Address: 82:2A:A8:C4:8B:22
+                    ESSID:"Vectron_gjest"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=94/100  
+                    Extra:fm=0001
+          Cell 13 - Address: 6C:F3:7F:E9:97:B0
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.18 GHz (Channel 36)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 14 - Address: 6C:F3:7F:E9:97:B1
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.18 GHz (Channel 36)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 15 - Address: 6C:F3:7F:E9:97:B2
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.18 GHz (Channel 36)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 16 - Address: 46:D9:E7:F4:A0:F5
+                    ESSID:"Nito"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.18 GHz (Channel 36)
+                    Encryption key:on
+                    Bit Rates:867 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0003
+          Cell 17 - Address: 6C:F3:7F:E9:8B:30
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.18 GHz (Channel 36)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=44/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 18 - Address: 6C:F3:7F:E9:8B:31
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.18 GHz (Channel 36)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 19 - Address: 6C:F3:7F:E9:97:30
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.3 GHz (Channel 60)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 20 - Address: 6C:F3:7F:E9:97:31
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.3 GHz (Channel 60)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 21 - Address: 6C:F3:7F:E9:97:32
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.3 GHz (Channel 60)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 22 - Address: 6C:F3:7F:E9:A0:10
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.58 GHz (Channel 116)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=98/100  
+                    Extra:fm=0001
+          Cell 23 - Address: 6C:F3:7F:E9:A0:11
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.58 GHz (Channel 116)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=98/100  
+                    Extra:fm=0001
+          Cell 24 - Address: 6C:F3:7F:E9:A0:12
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.58 GHz (Channel 116)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=96/100  
+                    Extra:fm=0001
+          Cell 25 - Address: AC:A3:1E:09:A2:F0
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.58 GHz (Channel 116)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=96/100  
+                    Extra:fm=0001
+          Cell 26 - Address: AC:A3:1E:09:A2:F1
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.58 GHz (Channel 116)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=96/100  
+                    Extra:fm=0001
+          Cell 27 - Address: AC:A3:1E:09:A2:F2
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.58 GHz (Channel 116)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=96/100  
+                    Extra:fm=0001
+          Cell 28 - Address: AC:A3:1E:09:A1:70
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.62 GHz (Channel 124)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=94/100  
+                    Extra:fm=0001
+          Cell 29 - Address: AC:A3:1E:09:A1:71
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.62 GHz (Channel 124)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=92/100  
+                    Extra:fm=0001
+          Cell 30 - Address: AC:A3:1E:09:A1:72
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.62 GHz (Channel 124)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=94/100  
+                    Extra:fm=0001
+          Cell 31 - Address: 6C:F3:7F:E9:97:F0
+                    ESSID:"eduroam"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.66 GHz (Channel 132)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac012800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 32 - Address: 6C:F3:7F:E9:97:F1
+                    ESSID:"UNINETT_guest"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.66 GHz (Channel 132)
+                    Encryption key:off
+                    Bit Rates:1.17 Gb/s
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 33 - Address: 6C:F3:7F:E9:97:F2
+                    ESSID:"dns_test"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.66 GHz (Channel 132)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac022800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
+          Cell 34 - Address: 6C:F3:7F:E9:97:F3
+                    ESSID:"eduroam-aruba"
+                    Protocol:IEEE 802.11AC
+                    Mode:Master
+                    Frequency:5.66 GHz (Channel 132)
+                    Encryption key:on
+                    Bit Rates:1.17 Gb/s
+                    Extra:rsn_ie=30180100000fac040100000fac040200000fac01000fac032800
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (2) : 802.1x unknown (3)
+                    Quality=0/100  Signal level=100/100  
+                    Extra:fm=0001
 
